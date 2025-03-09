@@ -1,0 +1,1001 @@
+country,Year,country,Pop,cell_phone_per_person
+Finland,1980,Finland,4780000,0.0049
+Finland,1981,Finland,4800000,0.0059
+Japan,1981,Japan,119000000,0.0001
+Norway,1981,Norway,4100000,0.0004
+Sweden,1981,Sweden,8320000,0.0025
+UAE,1982,UAE,1170000,0.0020
+Denmark,1982,Denmark,5120000,0.0014
+Finland,1982,Finland,4830000,0.0070
+Japan,1982,Japan,119000000,0.0002
+Norway,1982,Norway,4110000,0.0027
+Sweden,1982,Sweden,8330000,0.0033
+UAE,1983,UAE,1240000,0.0029
+Denmark,1983,Denmark,5110000,0.0032
+Finland,1983,Finland,4860000,0.0087
+Japan,1983,Japan,120000000,0.0002
+Norway,1983,Norway,4130000,0.0057
+Sweden,1983,Sweden,8330000,0.0044
+UAE,1984,UAE,1310000,0.0038
+Denmark,1984,Denmark,5110000,0.0060
+Finland,1984,Finland,4880000,0.0107
+"Hong Kong, China",1984,"Hong Kong, China",5320000,0.0002
+Indonesia,1984,Indonesia,163000000,0.0000
+Japan,1984,Japan,120000000,0.0003
+Norway,1984,Norway,4140000,0.0094
+Sweden,1984,Sweden,8340000,0.0069
+USA,1984,USA,239000000,0.0004
+UAE,1985,UAE,1380000,0.0057
+Austria,1985,Austria,7560000,0.0013
+Canada,1985,Canada,25900000,0.0005
+Germany,1985,Germany,77900000,0.0000
+Denmark,1985,Denmark,5110000,0.0090
+Finland,1985,Finland,4900000,0.0138
+UK,1985,UK,56600000,0.0009
+"Hong Kong, China",1985,"Hong Kong, China",5390000,0.0008
+Indonesia,1985,Indonesia,167000000,0.0000
+Ireland,1985,Ireland,3530000,0.0001
+Italy,1985,Italy,56900000,0.0001
+Japan,1985,Japan,121000000,0.0005
+Luxembourg,1985,Luxembourg,367000,0.0001
+Netherlands,1985,Netherlands,14500000,0.0003
+Norway,1985,Norway,4150000,0.0152
+Oman,1985,Oman,1330000,0.0000
+Sweden,1985,Sweden,8350000,0.0087
+USA,1985,USA,242000000,0.0014
+UAE,1986,UAE,1470000,0.0076
+Austria,1986,Austria,7570000,0.0025
+Belgium,1986,Belgium,9890000,0.0004
+Bahrain,1986,Bahrain,446000,0.0014
+Canada,1986,Canada,26200000,0.0023
+Germany,1986,Germany,77900000,0.0003
+Denmark,1986,Denmark,5120000,0.0113
+Spain,1986,Spain,38700000,0.0000
+Finland,1986,Finland,4920000,0.0173
+France,1986,France,55800000,0.0002
+UK,1986,UK,56800000,0.0023
+"Hong Kong, China",1986,"Hong Kong, China",5450000,0.0018
+Indonesia,1986,Indonesia,170000000,0.0000
+Ireland,1986,Ireland,3540000,0.0004
+Iceland,1986,Iceland,243000,0.0109
+Italy,1986,Italy,56900000,0.0002
+Japan,1986,Japan,121000000,0.0008
+"South Korea",1986,"South Korea",41700000,0.0002
+Kuwait,1986,Kuwait,1970000,0.0042
+Luxembourg,1986,Luxembourg,368000,0.0008
+Malaysia,1986,Malaysia,15800000,0.0007
+Netherlands,1986,Netherlands,14600000,0.0010
+Norway,1986,Norway,4170000,0.0209
+Oman,1986,Oman,1410000,0.0005
+Sweden,1986,Sweden,8369999,0.0135
+Thailand,1986,Thailand,51200000,0.0000
+Turkey,1986,Turkey,51800000,0.0000
+USA,1986,USA,244000000,0.0028
+UAE,1987,UAE,1570000,0.0087
+Australia,1987,Australia,16300000,0.0003
+Austria,1987,Austria,7570000,0.0035
+Belgium,1987,Belgium,9900000,0.0007
+Bahrain,1987,Bahrain,463000,0.0037
+Canada,1987,Canada,26500000,0.0037
+Switzerland,1987,Switzerland,6550000,0.0008
+China,1987,China,1100000000,0.0000
+Germany,1987,Germany,78100000,0.0006
+Denmark,1987,Denmark,5130000,0.0151
+Egypt,1987,Egypt,53700000,0.0000
+Spain,1987,Spain,38900000,0.0001
+Finland,1987,Finland,4930000,0.0215
+France,1987,France,56000000,0.0007
+UK,1987,UK,56900000,0.0051
+"Hong Kong, China",1987,"Hong Kong, China",5490000,0.0051
+Indonesia,1987,Indonesia,174000000,0.0000
+Ireland,1987,Ireland,3540000,0.0010
+Iceland,1987,Iceland,246000,0.0204
+Italy,1987,Italy,56900000,0.0003
+Japan,1987,Japan,122000000,0.0012
+"South Korea",1987,"South Korea",42300000,0.0002
+Kuwait,1987,Kuwait,2050000,0.0070
+Luxembourg,1987,Luxembourg,371000,0.0010
+Morocco,1987,Morocco,23100000,0.0000
+Malaysia,1987,Malaysia,16300000,0.0011
+Netherlands,1987,Netherlands,14700000,0.0016
+Norway,1987,Norway,4190000,0.0286
+"New Zealand",1987,"New Zealand",3300000,0.0007
+Oman,1987,Oman,1500000,0.0008
+Sweden,1987,Sweden,8400000,0.0206
+Thailand,1987,Thailand,52100000,0.0001
+Tunisia,1987,Tunisia,7790000,0.0000
+Turkey,1987,Turkey,52800000,0.0001
+USA,1987,USA,246000000,0.0050
+UAE,1988,UAE,1680000,0.0082
+Australia,1988,Australia,16600000,0.0019
+Austria,1988,Austria,7590000,0.0049
+Belgium,1988,Belgium,9920000,0.0019
+Bahrain,1988,Bahrain,480000,0.0060
+Canada,1988,Canada,26900000,0.0075
+Switzerland,1988,Switzerland,6590000,0.0047
+China,1988,China,1120000000,0.0000
+Cyprus,1988,Cyprus,766000,0.0002
+Germany,1988,Germany,78400000,0.0013
+Denmark,1988,Denmark,5130000,0.0197
+Egypt,1988,Egypt,55200000,0.0001
+Spain,1988,Spain,39000000,0.0003
+Finland,1988,Finland,4950000,0.0279
+France,1988,France,56400000,0.0017
+UK,1988,UK,57000000,0.0098
+"Hong Kong, China",1988,"Hong Kong, China",5510000,0.0093
+Indonesia,1988,Indonesia,177000000,0.0001
+Ireland,1988,Ireland,3530000,0.0018
+Iceland,1988,Iceland,250000,0.0261
+Italy,1988,Italy,56900000,0.0006
+Japan,1988,Japan,122000000,0.0020
+"South Korea",1988,"South Korea",42900000,0.0005
+Kuwait,1988,Kuwait,2130000,0.0082
+Luxembourg,1988,Luxembourg,374000,0.0014
+Morocco,1988,Morocco,23500000,0.0000
+Mexico,1988,Mexico,79700000,0.0000
+Malaysia,1988,Malaysia,16800000,0.0016
+Netherlands,1988,Netherlands,14800000,0.0022
+Norway,1988,Norway,4210000,0.0361
+"New Zealand",1988,"New Zealand",3320000,0.0030
+Oman,1988,Oman,1590000,0.0011
+Singapore,1988,Singapore,2850000,0.0038
+Sweden,1988,Sweden,8440000,0.0288
+Thailand,1988,Thailand,53000000,0.0003
+Tunisia,1988,Tunisia,7970000,0.0001
+Turkey,1988,Turkey,53900000,0.0002
+USA,1988,USA,248000000,0.0083
+Venezuela,1988,Venezuela,18900000,0.0001
+UAE,1989,UAE,1790000,0.0139
+Argentina,1989,Argentina,32300000,0.0001
+Australia,1989,Australia,16900000,0.0056
+Austria,1989,Austria,7620000,0.0067
+Belgium,1989,Belgium,9940000,0.0031
+Bahrain,1989,Bahrain,497000,0.0086
+Canada,1989,Canada,27400000,0.0126
+Switzerland,1989,Switzerland,6650000,0.0109
+Chile,1989,Chile,13200000,0.0004
+China,1989,China,1130000000,0.0000
+Cyprus,1989,Cyprus,777000,0.0017
+Germany,1989,Germany,79000000,0.0021
+Denmark,1989,Denmark,5130000,0.0242
+Egypt,1989,Egypt,56700000,0.0001
+Spain,1989,Spain,39000000,0.0008
+Finland,1989,Finland,4960000,0.0383
+France,1989,France,56700000,0.0031
+UK,1989,UK,57200000,0.0170
+"Hong Kong, China",1989,"Hong Kong, China",5540000,0.0161
+Indonesia,1989,Indonesia,180000000,0.0001
+Ireland,1989,Ireland,3510000,0.0039
+Iceland,1989,Iceland,253000,0.0312
+Italy,1989,Italy,57000000,0.0012
+Japan,1989,Japan,123000000,0.0040
+"South Korea",1989,"South Korea",43500000,0.0009
+Kuwait,1989,Kuwait,2220000,0.0101
+Luxembourg,1989,Luxembourg,377000,0.0018
+Morocco,1989,Morocco,23900000,0.0000
+Mexico,1989,Mexico,81200000,0.0001
+Malaysia,1989,Malaysia,17300000,0.0023
+Netherlands,1989,Netherlands,14900000,0.0038
+Norway,1989,Norway,4230000,0.0397
+"New Zealand",1989,"New Zealand",3330000,0.0087
+Oman,1989,Oman,1680000,0.0013
+Portugal,1989,Portugal,10000000,0.0003
+Singapore,1989,Singapore,2940000,0.0089
+Sweden,1989,Sweden,8490000,0.0411
+Thailand,1989,Thailand,53800000,0.0007
+Tunisia,1989,Tunisia,8150000,0.0001
+Turkey,1989,Turkey,55000000,0.0003
+USA,1989,USA,251000000,0.0140
+Venezuela,1989,Venezuela,19300000,0.0002
+"South Africa",1989,"South Africa",39600000,0.0001
+UAE,1990,UAE,1900000,0.0177
+Argentina,1990,Argentina,32800000,0.0004
+Australia,1990,Australia,17100000,0.0108
+Austria,1990,Austria,7680000,0.0096
+Belgium,1990,Belgium,9960000,0.0043
+Bahrain,1990,Bahrain,515000,0.0100
+Bahamas,1990,Bahamas,276000,0.0070
+Brazil,1990,Brazil,149000000,0.0000
+Brunei,1990,Brunei,255000,0.0069
+Canada,1990,Canada,27800000,0.0210
+Switzerland,1990,Switzerland,6710000,0.0186
+Chile,1990,Chile,13400000,0.0010
+China,1990,China,1150000000,0.0000
+Cyprus,1990,Cyprus,788000,0.0040
+Germany,1990,Germany,79700000,0.0034
+Denmark,1990,Denmark,5140000,0.0288
+"Dominican Republic",1990,"Dominican Republic",7150000,0.0004
+Algeria,1990,Algeria,25400000,0.0000
+Egypt,1990,Egypt,58400000,0.0001
+Spain,1990,Spain,39100000,0.0014
+Finland,1990,Finland,4990000,0.0517
+France,1990,France,57000000,0.0050
+UK,1990,UK,57400000,0.0193
+Grenada,1990,Grenada,100000,0.0015
+Guatemala,1990,Guatemala,9020000,0.0000
+"Hong Kong, China",1990,"Hong Kong, China",5560000,0.0241
+Croatia,1990,Croatia,4840000,0.0000
+Hungary,1990,Hungary,10400000,0.0003
+Indonesia,1990,Indonesia,184000000,0.0001
+Ireland,1990,Ireland,3510000,0.0071
+Iceland,1990,Iceland,255000,0.0392
+Israel,1990,Israel,4540000,0.0033
+Italy,1990,Italy,57000000,0.0047
+Jordan,1990,Jordan,3620000,0.0004
+Japan,1990,Japan,123000000,0.0071
+"South Korea",1990,"South Korea",44100000,0.0018
+Kuwait,1990,Kuwait,1680000,0.0123
+"Sri Lanka",1990,"Sri Lanka",16399999,0.0001
+Luxembourg,1990,Luxembourg,382000,0.0022
+Morocco,1990,Morocco,24400000,0.0000
+Mexico,1990,Mexico,82800000,0.0008
+Mauritius,1990,Mauritius,1090000,0.0020
+Malaysia,1990,Malaysia,17800000,0.0049
+Netherlands,1990,Netherlands,15000000,0.0053
+Norway,1990,Norway,4240000,0.0465
+"New Zealand",1990,"New Zealand",3400000,0.0159
+Oman,1990,Oman,1760000,0.0016
+Pakistan,1990,Pakistan,116000000,0.0000
+Peru,1990,Peru,22000000,0.0001
+Portugal,1990,Portugal,9990000,0.0007
+Qatar,1990,Qatar,440000,0.0087
+"Saudi Arabia",1990,"Saudi Arabia",10600000,0.0014
+Singapore,1990,Singapore,3040000,0.0170
+Sweden,1990,Sweden,8560000,0.0539
+Thailand,1990,Thailand,54700000,0.0012
+Tunisia,1990,Tunisia,8320000,0.0001
+Turkey,1990,Turkey,56000000,0.0006
+USA,1990,USA,253000000,0.0209
+Venezuela,1990,Venezuela,19800000,0.0004
+"South Africa",1990,"South Africa",40700000,0.0001
+UAE,1991,UAE,2010000,0.0214
+Argentina,1991,Argentina,33200000,0.0008
+Australia,1991,Australia,17400000,0.0167
+Austria,1991,Austria,7760000,0.0148
+Belgium,1991,Belgium,10000000,0.0051
+Bahrain,1991,Bahrain,532000,0.0138
+Bahamas,1991,Bahamas,281000,0.0072
+Bolivia,1991,Bolivia,7280000,0.0000
+Brazil,1991,Brazil,152000000,0.0000
+Barbados,1991,Barbados,259000,0.0019
+Brunei,1991,Brunei,263000,0.0115
+Canada,1991,Canada,28200000,0.0275
+Switzerland,1991,Switzerland,6800000,0.0257
+Chile,1991,Chile,13700000,0.0026
+China,1991,China,1170000000,0.0000
+Cyprus,1991,Cyprus,799000,0.0064
+"Czech Republic",1991,"Czech Republic",10300000,0.0001
+Germany,1991,Germany,80300000,0.0066
+Denmark,1991,Denmark,5150000,0.0342
+"Dominican Republic",1991,"Dominican Republic",7300000,0.0008
+Algeria,1991,Algeria,26000000,0.0002
+Egypt,1991,Egypt,60000000,0.0001
+Spain,1991,Spain,39200000,0.0028
+Estonia,1991,Estonia,1570000,0.0004
+Finland,1991,Finland,5010000,0.0637
+France,1991,France,57300000,0.0065
+UK,1991,UK,57600000,0.0219
+Grenada,1991,Grenada,101000,0.0015
+Guatemala,1991,Guatemala,9270000,0.0001
+"Hong Kong, China",1991,"Hong Kong, China",5630000,0.0337
+Croatia,1991,Croatia,4830000,0.0004
+Hungary,1991,Hungary,10400000,0.0008
+Indonesia,1991,Indonesia,187000000,0.0001
+Ireland,1991,Ireland,3530000,0.0091
+Iceland,1991,Iceland,258000,0.0500
+Israel,1991,Israel,4780000,0.0048
+Italy,1991,Italy,57100000,0.0099
+Jamaica,1991,Jamaica,2400000,0.0010
+Jordan,1991,Jordan,3920000,0.0004
+Japan,1991,Japan,124000000,0.0111
+"South Korea",1991,"South Korea",44400000,0.0037
+Kuwait,1991,Kuwait,1350000,0.0319
+"Sri Lanka",1991,"Sri Lanka",16500000,0.0001
+Luxembourg,1991,Luxembourg,387000,0.0029
+Morocco,1991,Morocco,24800000,0.0001
+Mexico,1991,Mexico,84400000,0.0019
+Malta,1991,Malta,371000,0.0061
+Mauritius,1991,Mauritius,1100000,0.0023
+Malaysia,1991,Malaysia,18300000,0.0071
+Netherlands,1991,Netherlands,15200000,0.0076
+Norway,1991,Norway,4260000,0.0549
+"New Zealand",1991,"New Zealand",3480000,0.0208
+Oman,1991,Oman,1850000,0.0020
+Pakistan,1991,Pakistan,120000000,0.0001
+Peru,1991,Peru,22500000,0.0003
+Philippines,1991,Philippines,64400000,0.0005
+Portugal,1991,Portugal,9970000,0.0013
+Qatar,1991,Qatar,455000,0.0089
+Russia,1991,Russia,149000000,0.0000
+"Saudi Arabia",1991,"Saudi Arabia",11200000,0.0014
+Singapore,1991,Singapore,3140000,0.0261
+"Slovak Republic",1991,"Slovak Republic",5280000,0.0000
+Slovenia,1991,Slovenia,2000000,0.0003
+Sweden,1991,Sweden,8620000,0.0659
+Thailand,1991,Thailand,55600000,0.0022
+"Trinidad and Tobago",1991,"Trinidad and Tobago",1260000,0.0003
+Tunisia,1991,Tunisia,8500000,0.0001
+Turkey,1991,Turkey,57000000,0.0008
+USA,1991,USA,256000000,0.0295
+Venezuela,1991,Venezuela,20300000,0.0008
+"South Africa",1991,"South Africa",41700000,0.0002
+Andorra,1992,Andorra,60200,0.0128
+UAE,1992,UAE,2110000,0.0232
+Argentina,1992,Argentina,33700000,0.0014
+Australia,1992,Australia,17500000,0.0284
+Austria,1992,Austria,7840000,0.0219
+Belgium,1992,Belgium,10000000,0.0062
+Bangladesh,1992,Bangladesh,116000000,0.0000
+Bahrain,1992,Bahrain,548000,0.0177
+Bahamas,1992,Bahamas,286000,0.0091
+Bolivia,1992,Bolivia,7430000,0.0002
+Brazil,1992,Brazil,154000000,0.0002
+Barbados,1992,Barbados,260000,0.0031
+Brunei,1992,Brunei,270000,0.0152
+Canada,1992,Canada,28500000,0.0361
+Switzerland,1992,Switzerland,6880000,0.0313
+Chile,1992,Chile,13900000,0.0046
+China,1992,China,1180000000,0.0002
+"Costa Rica",1992,"Costa Rica",3280000,0.0009
+Cuba,1992,Cuba,10800000,0.0000
+Cyprus,1992,Cyprus,810000,0.0120
+"Czech Republic",1992,"Czech Republic",10300000,0.0005
+Germany,1992,Germany,80900000,0.0120
+Denmark,1992,Denmark,5170000,0.0408
+"Dominican Republic",1992,"Dominican Republic",7450000,0.0010
+Algeria,1992,Algeria,26600000,0.0002
+Egypt,1992,Egypt,61500000,0.0001
+Spain,1992,Spain,39400000,0.0046
+Estonia,1992,Estonia,1540000,0.0016
+Finland,1992,Finland,5040000,0.0766
+France,1992,France,57600000,0.0076
+Gabon,1992,Gabon,1040000,0.0003
+UK,1992,UK,57700000,0.0262
+Ghana,1992,Ghana,16200000,0.0000
+Gambia,1992,Gambia,1150000,0.0002
+Grenada,1992,Grenada,102000,0.0018
+Guatemala,1992,Guatemala,9520000,0.0002
+Guyana,1992,Guyana,750000,0.0011
+"Hong Kong, China",1992,"Hong Kong, China",5760000,0.0405
+Croatia,1992,Croatia,4780000,0.0013
+Hungary,1992,Hungary,10400000,0.0022
+Indonesia,1992,Indonesia,190000000,0.0002
+Ireland,1992,Ireland,3560000,0.0124
+Iceland,1992,Iceland,261000,0.0586
+Israel,1992,Israel,4960000,0.0073
+Italy,1992,Italy,57100000,0.0137
+Jamaica,1992,Jamaica,2420000,0.0032
+Jordan,1992,Jordan,4130000,0.0004
+Japan,1992,Japan,124000000,0.0138
+Kenya,1992,Kenya,24400000,0.0000
+"South Korea",1992,"South Korea",44700000,0.0061
+Kuwait,1992,Kuwait,1630000,0.0313
+Lao,1992,Lao,4560000,0.0001
+"Sri Lanka",1992,"Sri Lanka",16700000,0.0002
+Lithuania,1992,Lithuania,3700000,0.0001
+Luxembourg,1992,Luxembourg,392000,0.0029
+Latvia,1992,Latvia,2610000,0.0004
+Morocco,1992,Morocco,25200000,0.0001
+Mexico,1992,Mexico,86000000,0.0036
+Malta,1992,Malta,375000,0.0093
+Mauritius,1992,Mauritius,1120000,0.0026
+Malaysia,1992,Malaysia,18800000,0.0107
+Netherlands,1992,Netherlands,15300000,0.0108
+Norway,1992,Norway,4290000,0.0660
+"New Zealand",1992,"New Zealand",3530000,0.0283
+Oman,1992,Oman,1940000,0.0024
+Pakistan,1992,Pakistan,124000000,0.0001
+Peru,1992,Peru,22900000,0.0009
+Philippines,1992,Philippines,65900000,0.0008
+Poland,1992,Poland,38200000,0.0001
+Portugal,1992,Portugal,9960000,0.0037
+Paraguay,1992,Paraguay,4250000,0.0004
+Qatar,1992,Qatar,470000,0.0090
+Russia,1992,Russia,149000000,0.0000
+"Saudi Arabia",1992,"Saudi Arabia",11700000,0.0014
+Singapore,1992,Singapore,3230000,0.0372
+"San Marino",1992,"San Marino",24100,0.0373
+"Slovak Republic",1992,"Slovak Republic",5310000,0.0003
+Slovenia,1992,Slovenia,2000000,0.0018
+Sweden,1992,Sweden,8670000,0.0757
+Thailand,1992,Thailand,56500000,0.0044
+"Trinidad and Tobago",1992,"Trinidad and Tobago",1270000,0.0010
+Tunisia,1992,Tunisia,8680000,0.0002
+Turkey,1992,Turkey,58000000,0.0011
+Uruguay,1992,Uruguay,3140000,0.0005
+USA,1992,USA,260000000,0.0423
+"St. Vincent and the Grenadines",1992,"St. Vincent and the Grenadines",113000,0.0006
+Venezuela,1992,Venezuela,20800000,0.0038
+Vietnam,1992,Vietnam,68300000,0.0000
+Yemen,1992,Yemen,15000000,0.0001
+"South Africa",1992,"South Africa",42400000,0.0003
+Angola,1993,Angola,12800000,0.0001
+Andorra,1993,Andorra,63300,0.0123
+UAE,1993,UAE,2220000,0.0318
+Argentina,1993,Argentina,34200000,0.0033
+Australia,1993,Australia,17700000,0.0390
+Austria,1993,Austria,7910000,0.0279
+Burundi,1993,Burundi,5680000,0.0001
+Belgium,1993,Belgium,10100000,0.0067
+Bangladesh,1993,Bangladesh,118000000,0.0000
+Bulgaria,1993,Bulgaria,8470000,0.0001
+Bahrain,1993,Bahrain,563000,0.0202
+Bahamas,1993,Bahamas,291000,0.0082
+Belarus,1993,Belarus,10200000,0.0000
+Belize,1993,Belize,195000,0.0021
+Bolivia,1993,Bolivia,7580000,0.0004
+Brazil,1993,Brazil,157000000,0.0012
+Barbados,1993,Barbados,261000,0.0060
+Brunei,1993,Brunei,277000,0.0300
+Canada,1993,Canada,28800000,0.0462
+Switzerland,1993,Switzerland,6940000,0.0372
+Chile,1993,Chile,14100000,0.0060
+China,1993,China,1200000000,0.0005
+"Costa Rica",1993,"Costa Rica",3370000,0.0013
+Cuba,1993,Cuba,10800000,0.0000
+Cyprus,1993,Cyprus,826000,0.0185
+"Czech Republic",1993,"Czech Republic",10300000,0.0014
+Germany,1993,Germany,81500000,0.0217
+Denmark,1993,Denmark,5190000,0.0690
+"Dominican Republic",1993,"Dominican Republic",7590000,0.0014
+Algeria,1993,Algeria,27300000,0.0002
+Egypt,1993,Egypt,62900000,0.0001
+Spain,1993,Spain,39700000,0.0065
+Estonia,1993,Estonia,1500000,0.0048
+Finland,1993,Finland,5070000,0.0964
+France,1993,France,57800000,0.0099
+Gabon,1993,Gabon,1070000,0.0011
+UK,1993,UK,57900000,0.0392
+Ghana,1993,Ghana,16600000,0.0001
+Guinea,1993,Guinea,7130000,0.0000
+Gambia,1993,Gambia,1190000,0.0004
+Greece,1993,Greece,10400000,0.0046
+Grenada,1993,Grenada,102000,0.0028
+Guatemala,1993,Guatemala,9780000,0.0003
+Guyana,1993,Guyana,753000,0.0014
+"Hong Kong, China",1993,"Hong Kong, China",5900000,0.0493
+Croatia,1993,Croatia,4730000,0.0024
+Hungary,1993,Hungary,10400000,0.0044
+Indonesia,1993,Indonesia,193000000,0.0003
+Ireland,1993,Ireland,3580000,0.0171
+Iceland,1993,Iceland,264000,0.0659
+Israel,1993,Israel,5090000,0.0127
+Italy,1993,Italy,57200000,0.0212
+Jamaica,1993,Jamaica,2450000,0.0062
+Jordan,1993,Jordan,4350000,0.0003
+Japan,1993,Japan,125000000,0.0170
+Kenya,1993,Kenya,25100000,0.0000
+Cambodia,1993,Cambodia,8620000,0.0006
+"South Korea",1993,"South Korea",44900000,0.0105
+Kuwait,1993,Kuwait,1670000,0.0385
+Lao,1993,Lao,4690000,0.0001
+"Sri Lanka",1993,"Sri Lanka",17000000,0.0009
+Lithuania,1993,Lithuania,3680000,0.0003
+Luxembourg,1993,Luxembourg,397000,0.0128
+Latvia,1993,Latvia,2560000,0.0015
+Morocco,1993,Morocco,25600000,0.0003
+Monaco,1993,Monaco,31100,0.0370
+Mexico,1993,Mexico,87700000,0.0044
+Malta,1993,Malta,378000,0.0140
+Myanmar,1993,Myanmar,41500000,0.0000
+Mauritius,1993,Mauritius,1130000,0.0036
+Malaysia,1993,Malaysia,19300000,0.0176
+Nigeria,1993,Nigeria,105000000,0.0001
+Nicaragua,1993,Nicaragua,4450000,0.0001
+Netherlands,1993,Netherlands,15400000,0.0140
+Norway,1993,Norway,4310000,0.0861
+Nauru,1993,Nauru,10100,0.0149
+"New Zealand",1993,"New Zealand",3570000,0.0403
+Oman,1993,Oman,2020000,0.0028
+Pakistan,1993,Pakistan,127000000,0.0001
+Peru,1993,Peru,23400000,0.0016
+Philippines,1993,Philippines,67500000,0.0015
+Poland,1993,Poland,38300000,0.0004
+Portugal,1993,Portugal,9970000,0.0101
+Paraguay,1993,Paraguay,4360000,0.0008
+Qatar,1993,Qatar,485000,0.0088
+Romania,1993,Romania,22800000,0.0000
+Russia,1993,Russia,148000000,0.0001
+"Saudi Arabia",1993,"Saudi Arabia",12200000,0.0013
+Singapore,1993,Singapore,3320000,0.0539
+"El Salvador",1993,"El Salvador",5660000,0.0003
+"San Marino",1993,"San Marino",24500,0.0531
+Suriname,1993,Suriname,419000,0.0026
+"Slovak Republic",1993,"Slovak Republic",5330000,0.0006
+Slovenia,1993,Slovenia,1990000,0.0033
+Sweden,1993,Sweden,8720000,0.0889
+Thailand,1993,Thailand,57400000,0.0072
+"Trinidad and Tobago",1993,"Trinidad and Tobago",1280000,0.0013
+Tunisia,1993,Tunisia,8860000,0.0003
+Turkey,1993,Turkey,59000000,0.0014
+Ukraine,1993,Ukraine,52400000,0.0000
+Uruguay,1993,Uruguay,3160000,0.0016
+USA,1993,USA,263000000,0.0608
+Uzbekistan,1993,Uzbekistan,22000000,0.0000
+"St. Vincent and the Grenadines",1993,"St. Vincent and the Grenadines",113000,0.0007
+Venezuela,1993,Venezuela,21300000,0.0086
+Vietnam,1993,Vietnam,69600000,0.0001
+Yemen,1993,Yemen,15600000,0.0003
+"South Africa",1993,"South Africa",43300000,0.0009
+Angola,1994,Angola,13200000,0.0001
+Andorra,1994,Andorra,64599,0.0121
+UAE,1994,UAE,2330000,0.0393
+Argentina,1994,Argentina,34600000,0.0070
+Australia,1994,Australia,17900000,0.0682
+Austria,1994,Austria,7940000,0.0350
+Azerbaijan,1994,Azerbaijan,7610000,0.0001
+Burundi,1994,Burundi,5710000,0.0001
+Belgium,1994,Belgium,10100000,0.0127
+Bangladesh,1994,Bangladesh,120000000,0.0000
+Bulgaria,1994,Bulgaria,8420000,0.0008
+Bahrain,1994,Bahrain,578000,0.0304
+Belarus,1994,Belarus,10200000,0.0002
+Belize,1994,Belize,199000,0.0042
+Bolivia,1994,Bolivia,7730000,0.0005
+Brazil,1994,Brazil,159000000,0.0036
+Barbados,1994,Barbados,262000,0.0113
+Brunei,1994,Brunei,284000,0.0549
+Canada,1994,Canada,29100000,0.0643
+Switzerland,1994,Switzerland,6990000,0.0475
+Chile,1994,Chile,14300000,0.0081
+China,1994,China,1210000000,0.0013
+Cameroon,1994,Cameroon,12700000,0.0001
+Colombia,1994,Colombia,35100000,0.0025
+"Costa Rica",1994,"Costa Rica",3450000,0.0020
+Cuba,1994,Cuba,10900000,0.0001
+Cyprus,1994,Cyprus,845000,0.0271
+"Czech Republic",1994,"Czech Republic",10300000,0.0030
+Germany,1994,Germany,81800000,0.0304
+Denmark,1994,Denmark,5210000,0.0967
+"Dominican Republic",1994,"Dominican Republic",7740000,0.0027
+Algeria,1994,Algeria,27900000,0.0000
+Ecuador,1994,Ecuador,11400000,0.0017
+Egypt,1994,Egypt,64300000,0.0001
+Spain,1994,Spain,39900000,0.0103
+Estonia,1994,Estonia,1480000,0.0093
+Finland,1994,Finland,5090000,0.1328
+Fiji,1994,Fiji,795000,0.0014
+France,1994,France,58000000,0.0152
+Gabon,1994,Gabon,1090000,0.0024
+UK,1994,UK,58000000,0.0679
+Ghana,1994,Ghana,17000000,0.0002
+Guinea,1994,Guinea,7350000,0.0001
+Gambia,1994,Gambia,1230000,0.0007
+Greece,1994,Greece,10500000,0.0146
+Grenada,1994,Grenada,103000,0.0034
+Guatemala,1994,Guatemala,10000000,0.0011
+Guyana,1994,Guyana,756000,0.0017
+"Hong Kong, China",1994,"Hong Kong, China",6040000,0.0803
+Croatia,1994,Croatia,4680000,0.0046
+Hungary,1994,Hungary,10300000,0.0139
+Indonesia,1994,Indonesia,197000000,0.0004
+Ireland,1994,Ireland,3590000,0.0245
+Iran,1994,Iran,61500000,0.0001
+Iceland,1994,Iceland,266000,0.0820
+Israel,1994,Israel,5220000,0.0255
+Italy,1994,Italy,57400000,0.0390
+Jamaica,1994,Jamaica,2480000,0.0105
+Jordan,1994,Jordan,4560000,0.0003
+Japan,1994,Japan,125000000,0.0346
+Kazakhstan,1994,Kazakhstan,17000000,0.0000
+Kenya,1994,Kenya,25900000,0.0001
+Cambodia,1994,Cambodia,9240000,0.0011
+"South Korea",1994,"South Korea",45100000,0.0213
+Kuwait,1994,Kuwait,1660000,0.0513
+Lao,1994,Lao,4810000,0.0001
+"St. Lucia",1994,"St. Lucia",146000,0.0036
+"Sri Lanka",1994,"Sri Lanka",17300000,0.0017
+Lithuania,1994,Lithuania,3650000,0.0012
+Luxembourg,1994,Luxembourg,403000,0.0320
+Latvia,1994,Latvia,2520000,0.0033
+Morocco,1994,Morocco,26000000,0.0005
+Monaco,1994,Monaco,31400,0.0815
+Madagascar,1994,Madagascar,13600000,0.0000
+Mexico,1994,Mexico,89300000,0.0064
+"Marshall Islands",1994,"Marshall Islands",47700,0.0059
+Malta,1994,Malta,381000,0.0197
+Myanmar,1994,Myanmar,42100000,0.0000
+Mauritius,1994,Mauritius,1150000,0.0050
+Malaysia,1994,Malaysia,19800000,0.0289
+Nigeria,1994,Nigeria,108000000,0.0001
+Nicaragua,1994,Nicaragua,4550000,0.0005
+Netherlands,1994,Netherlands,15500000,0.0207
+Norway,1994,Norway,4340000,0.1355
+Nauru,1994,Nauru,10100,0.0446
+"New Zealand",1994,"New Zealand",3620000,0.0660
+Oman,1994,Oman,2080000,0.0032
+Pakistan,1994,Pakistan,131000000,0.0002
+Peru,1994,Peru,23900000,0.0022
+Philippines,1994,Philippines,69000000,0.0025
+Poland,1994,Poland,38300000,0.0010
+Portugal,1994,Portugal,10000000,0.0174
+Paraguay,1994,Paraguay,4470000,0.0017
+Qatar,1994,Qatar,499000,0.0230
+Romania,1994,Romania,22800000,0.0001
+Russia,1994,Russia,148000000,0.0002
+"Saudi Arabia",1994,"Saudi Arabia",12800000,0.0013
+Senegal,1994,Senegal,8620000,0.0000
+Singapore,1994,Singapore,3420000,0.0690
+"Solomon Islands",1994,"Solomon Islands",374000,0.0004
+"El Salvador",1994,"El Salvador",5710000,0.0009
+"San Marino",1994,"San Marino",24800,0.0766
+Suriname,1994,Suriname,422000,0.0033
+"Slovak Republic",1994,"Slovak Republic",5340000,0.0011
+Slovenia,1994,Slovenia,1990000,0.0082
+Sweden,1994,Sweden,8780000,0.1572
+Thailand,1994,Thailand,58300000,0.0126
+"Trinidad and Tobago",1994,"Trinidad and Tobago",1290000,0.0020
+Tunisia,1994,Tunisia,9020000,0.0003
+Turkey,1994,Turkey,60000000,0.0029
+Tanzania,1994,Tanzania,29400000,0.0000
+Ukraine,1994,Ukraine,52100000,0.0001
+Uruguay,1994,Uruguay,3170000,0.0022
+USA,1994,USA,265000000,0.0909
+Uzbekistan,1994,Uzbekistan,22500000,0.0000
+"St. Vincent and the Grenadines",1994,"St. Vincent and the Grenadines",113000,0.0013
+Venezuela,1994,Venezuela,21700000,0.0147
+Vietnam,1994,Vietnam,70900000,0.0002
+Vanuatu,1994,Vanuatu,163000,0.0004
+Yemen,1994,Yemen,16100000,0.0005
+"South Africa",1994,"South Africa",44000000,0.0077
+Angola,1995,Angola,13700000,0.0001
+Andorra,1995,Andorra,63900,0.0443
+UAE,1995,UAE,2430000,0.0531
+Argentina,1995,Argentina,35100000,0.0115
+Australia,1995,Australia,18100000,0.1238
+Austria,1995,Austria,7950000,0.0483
+Azerbaijan,1995,Azerbaijan,7720000,0.0008
+Burundi,1995,Burundi,6070000,0.0001
+Belgium,1995,Belgium,10100000,0.0233
+Benin,1995,Benin,6230000,0.0002
+Bangladesh,1995,Bangladesh,123000000,0.0000
+Bulgaria,1995,Bulgaria,8359999,0.0025
+Bahrain,1995,Bahrain,593000,0.0465
+Bahamas,1995,Bahamas,301000,0.0136
+Belarus,1995,Belarus,10200000,0.0006
+Belize,1995,Belize,204000,0.0076
+Bolivia,1995,Bolivia,7870000,0.0009
+Brazil,1995,Brazil,162000000,0.0080
+Barbados,1995,Barbados,262000,0.0176
+Brunei,1995,Brunei,291000,0.1234
+"Central African Republic",1995,"Central African Republic",3350000,0.0000
+Canada,1995,Canada,29500000,0.0878
+Switzerland,1995,Switzerland,7040000,0.0635
+Chile,1995,Chile,14500000,0.0136
+China,1995,China,1220000000,0.0030
+Cameroon,1995,Cameroon,13100000,0.0002
+"Congo, Dem. Rep.",1995,"Congo, Dem. Rep.",44400000,0.0002
+Colombia,1995,Colombia,35800000,0.0077
+"Costa Rica",1995,"Costa Rica",3540000,0.0053
+Cuba,1995,Cuba,10900000,0.0002
+Cyprus,1995,Cyprus,863000,0.0516
+"Czech Republic",1995,"Czech Republic",10300000,0.0047
+Germany,1995,Germany,82000000,0.0455
+Denmark,1995,Denmark,5230000,0.1572
+"Dominican Republic",1995,"Dominican Republic",7890000,0.0071
+Algeria,1995,Algeria,28500000,0.0002
+Ecuador,1995,Ecuador,11600000,0.0047
+Egypt,1995,Egypt,65700000,0.0001
+Spain,1995,Spain,40100000,0.0236
+Estonia,1995,Estonia,1450000,0.0210
+Finland,1995,Finland,5110000,0.2035
+Fiji,1995,Fiji,799000,0.0028
+France,1995,France,58200000,0.0223
+Gabon,1995,Gabon,1120000,0.0036
+UK,1995,UK,58200000,0.0986
+Georgia,1995,Georgia,4930000,0.0000
+Ghana,1995,Ghana,17400000,0.0004
+Guinea,1995,Guinea,7550000,0.0001
+Gambia,1995,Gambia,1260000,0.0011
+Greece,1995,Greece,10500000,0.0260
+Grenada,1995,Grenada,104000,0.0038
+Guatemala,1995,Guatemala,10300000,0.0029
+Guyana,1995,Guyana,758000,0.0016
+"Hong Kong, China",1995,"Hong Kong, China",6180000,0.1291
+Croatia,1995,Croatia,4620000,0.0073
+Hungary,1995,Hungary,10300000,0.0257
+Indonesia,1995,Indonesia,200000000,0.0011
+India,1995,India,960000000,0.0001
+Ireland,1995,Ireland,3610000,0.0438
+Iran,1995,Iran,62200000,0.0003
+Iceland,1995,Iceland,268000,0.1153
+Israel,1995,Israel,5350000,0.0832
+Italy,1995,Italy,57400000,0.0683
+Jamaica,1995,Jamaica,2500000,0.0180
+Jordan,1995,Jordan,4750000,0.0025
+Japan,1995,Japan,126000000,0.0929
+Kazakhstan,1995,Kazakhstan,16700000,0.0003
+Kenya,1995,Kenya,26600000,0.0001
+Cambodia,1995,Cambodia,10000000,0.0014
+"South Korea",1995,"South Korea",45400000,0.0361
+Kuwait,1995,Kuwait,1680000,0.0702
+Lao,1995,Lao,4930000,0.0003
+Lebanon,1995,Lebanon,3960000,0.0303
+"St. Lucia",1995,"St. Lucia",148000,0.0068
+"Sri Lanka",1995,"Sri Lanka",17600000,0.0029
+Lithuania,1995,Lithuania,3630000,0.0041
+Luxembourg,1995,Luxembourg,408000,0.0657
+Latvia,1995,Latvia,2490000,0.0060
+Morocco,1995,Morocco,26400000,0.0011
+Monaco,1995,Monaco,31600,0.0953
+Moldova,1995,Moldova,4410000,0.0000
+Madagascar,1995,Madagascar,14100000,0.0001
+Mexico,1995,Mexico,90900000,0.0076
+"Marshall Islands",1995,"Marshall Islands",48300,0.0055
+Malta,1995,Malta,385000,0.0281
+Myanmar,1995,Myanmar,42600000,0.0001
+Mauritius,1995,Mauritius,1160000,0.0101
+Malawi,1995,Malawi,10200000,0.0000
+Malaysia,1995,Malaysia,20300000,0.0498
+Namibia,1995,Namibia,1600000,0.0022
+Nigeria,1995,Nigeria,111000000,0.0001
+Nicaragua,1995,Nicaragua,4640000,0.0009
+Netherlands,1995,Netherlands,15600000,0.0346
+Norway,1995,Norway,4360000,0.2250
+Nauru,1995,Nauru,10200,0.0490
+"New Zealand",1995,"New Zealand",3670000,0.0995
+Oman,1995,Oman,2120000,0.0038
+Pakistan,1995,Pakistan,135000000,0.0003
+Peru,1995,Peru,24300000,0.0030
+Philippines,1995,Philippines,70500000,0.0070
+Poland,1995,Poland,38400000,0.0020
+Portugal,1995,Portugal,10000000,0.0341
+Paraguay,1995,Paraguay,4580000,0.0034
+Qatar,1995,Qatar,514000,0.0360
+Romania,1995,Romania,22700000,0.0004
+Russia,1995,Russia,148000000,0.0006
+"Saudi Arabia",1995,"Saudi Arabia",13300000,0.0012
+Senegal,1995,Senegal,8850000,0.0000
+Singapore,1995,Singapore,3530000,0.0867
+"Solomon Islands",1995,"Solomon Islands",385000,0.0006
+"El Salvador",1995,"El Salvador",5760000,0.0023
+"San Marino",1995,"San Marino",25200,0.0929
+Suriname,1995,Suriname,430000,0.0039
+"Slovak Republic",1995,"Slovak Republic",5350000,0.0023
+Slovenia,1995,Slovenia,1990000,0.0137
+Sweden,1995,Sweden,8830000,0.2276
+Seychelles,1995,Seychelles,78100,0.0006
+Thailand,1995,Thailand,59100000,0.0220
+Tonga,1995,Tonga,100000,0.0030
+"Trinidad and Tobago",1995,"Trinidad and Tobago",1300000,0.0049
+Tunisia,1995,Tunisia,9160000,0.0003
+Turkey,1995,Turkey,61000000,0.0072
+Tanzania,1995,Tanzania,30400000,0.0001
+Uganda,1995,Uganda,20700000,0.0001
+Ukraine,1995,Ukraine,51700000,0.0003
+Uruguay,1995,Uruguay,3190000,0.0125
+USA,1995,USA,268000000,0.1261
+Uzbekistan,1995,Uzbekistan,22900000,0.0002
+"St. Vincent and the Grenadines",1995,"St. Vincent and the Grenadines",113000,0.0019
+Venezuela,1995,Venezuela,22200000,0.0182
+Vietnam,1995,Vietnam,72000000,0.0003
+Vanuatu,1995,Vanuatu,167000,0.0007
+Yemen,1995,Yemen,16700000,0.0005
+"South Africa",1995,"South Africa",44500000,0.0120
+Zambia,1995,Zambia,8790000,0.0002
+Angola,1996,Angola,14200000,0.0002
+Albania,1996,Albania,3250000,0.0007
+Andorra,1996,Andorra,64000,0.0858
+UAE,1996,UAE,2600000,0.0746
+Argentina,1996,Argentina,35500000,0.0188
+Armenia,1996,Armenia,3280000,0.0001
+"Antigua and Barbuda",1996,"Antigua and Barbuda",69600,0.0187
+Australia,1996,Australia,18300000,0.2180
+Austria,1996,Austria,7960000,0.0753
+Azerbaijan,1996,Azerbaijan,7830000,0.0022
+Burundi,1996,Burundi,6070000,0.0001
+Belgium,1996,Belgium,10200000,0.0469
+Benin,1996,Benin,6390000,0.0004
+"Burkina Faso",1996,"Burkina Faso",10700000,0.0000
+Bangladesh,1996,Bangladesh,125000000,0.0000
+Bulgaria,1996,Bulgaria,8289999,0.0032
+Bahrain,1996,Bahrain,609000,0.0658
+Bahamas,1996,Bahamas,306000,0.0162
+"Bosnia and Herzegovina",1996,"Bosnia and Herzegovina",3880000,0.0004
+Belarus,1996,Belarus,10200000,0.0006
+Belize,1996,Belize,210000,0.0104
+Bolivia,1996,Bolivia,8020000,0.0042
+Brazil,1996,Brazil,164000000,0.0152
+Barbados,1996,Barbados,262000,0.0240
+Brunei,1996,Brunei,298000,0.1460
+"Central African Republic",1996,"Central African Republic",3440000,0.0003
+Canada,1996,Canada,29800000,0.1174
+Switzerland,1996,Switzerland,7070000,0.0938
+Chile,1996,Chile,14700000,0.0217
+China,1996,China,1230000000,0.0056
+"Cote d'Ivoire",1996,"Cote d'Ivoire",15400000,0.0009
+Cameroon,1996,Cameroon,13400000,0.0003
+"Congo, Dem. Rep.",1996,"Congo, Dem. Rep.",45300000,0.0002
+"Congo, Rep.",1996,"Congo, Rep.",2830000,0.0004
+Colombia,1996,Colombia,36500000,0.0143
+"Costa Rica",1996,"Costa Rica",3620000,0.0128
+Cuba,1996,Cuba,11000000,0.0002
+Cyprus,1996,Cyprus,880000,0.0805
+"Czech Republic",1996,"Czech Republic",10300000,0.0194
+Germany,1996,Germany,82300000,0.0670
+Djibouti,1996,Djibouti,648000,0.0002
+Dominica,1996,Dominica,69400,0.0066
+Denmark,1996,Denmark,5260000,0.2510
+"Dominican Republic",1996,"Dominican Republic",8029999,0.0103
+Algeria,1996,Algeria,29000000,0.0004
+Ecuador,1996,Ecuador,11800000,0.0051
+Egypt,1996,Egypt,67000000,0.0001
+Spain,1996,Spain,40200000,0.0746
+Estonia,1996,Estonia,1430000,0.0486
+Finland,1996,Finland,5120000,0.2930
+Fiji,1996,Fiji,804000,0.0046
+France,1996,France,58400000,0.0421
+Gabon,1996,Gabon,1150000,0.0059
+UK,1996,UK,58300000,0.1244
+Georgia,1996,Georgia,4810000,0.0005
+Ghana,1996,Ghana,17800000,0.0007
+Guinea,1996,Guinea,7770000,0.0001
+Gambia,1996,Gambia,1300000,0.0024
+"Equatorial Guinea",1996,"Equatorial Guinea",593000,0.0001
+Greece,1996,Greece,10600000,0.0502
+Grenada,1996,Grenada,105000,0.0054
+Guatemala,1996,Guatemala,10600000,0.0041
+Guyana,1996,Guyana,761000,0.0016
+"Hong Kong, China",1996,"Hong Kong, China",6300000,0.2159
+Honduras,1996,Honduras,5900000,0.0004
+Croatia,1996,Croatia,4560000,0.0142
+Hungary,1996,Hungary,10300000,0.0459
+Indonesia,1996,Indonesia,203000000,0.0028
+India,1996,India,980000000,0.0003
+Ireland,1996,Ireland,3640000,0.0794
+Iran,1996,Iran,62900000,0.0010
+Iceland,1996,Iceland,269000,0.1740
+Israel,1996,Israel,5500000,0.1909
+Italy,1996,Italy,57200000,0.1122
+Jamaica,1996,Jamaica,2520000,0.0217
+Jordan,1996,Jordan,4910000,0.0049
+Japan,1996,Japan,126000000,0.2135
+Kazakhstan,1996,Kazakhstan,16399999,0.0006
+Kenya,1996,Kenya,27300000,0.0001
+Cambodia,1996,Cambodia,10800000,0.0021
+"St. Kitts and Nevis",1996,"St. Kitts and Nevis",42900,0.0070
+"South Korea",1996,"South Korea",45600000,0.0697
+Kuwait,1996,Kuwait,1730000,0.0873
+Lao,1996,Lao,5050000,0.0008
+Lebanon,1996,Lebanon,4030000,0.0491
+"St. Lucia",1996,"St. Lucia",150000,0.0093
+"Sri Lanka",1996,"Sri Lanka",17900000,0.0040
+Lesotho,1996,Lesotho,1970000,0.0006
+Lithuania,1996,Lithuania,3600000,0.0142
+Luxembourg,1996,Luxembourg,414000,0.1087
+Latvia,1996,Latvia,2460000,0.0116
+Morocco,1996,Morocco,26800000,0.0016
+Monaco,1996,Monaco,31800,0.1698
+Moldova,1996,Moldova,4390000,0.0002
+Madagascar,1996,Madagascar,14500000,0.0002
+Maldives,1996,Maldives,262000,0.0001
+Mexico,1996,Mexico,92500000,0.0110
+"Marshall Islands",1996,"Marshall Islands",48800,0.0075
+"North Macedonia",1996,"North Macedonia",2010000,0.0005
+Mali,1996,Mali,10400000,0.0001
+Malta,1996,Malta,388000,0.0322
+Myanmar,1996,Myanmar,43200000,0.0002
+Mongolia,1996,Mongolia,2360000,0.0004
+Mauritius,1996,Mauritius,1170000,0.0178
+Malawi,1996,Malawi,10400000,0.0004
+Malaysia,1996,Malaysia,20900000,0.0727
+Namibia,1996,Namibia,1650000,0.0040
+Nigeria,1996,Nigeria,114000000,0.0001
+Nicaragua,1996,Nicaragua,4730000,0.0011
+Netherlands,1996,Netherlands,15600000,0.0654
+Norway,1996,Norway,4380000,0.2877
+Nauru,1996,Nauru,10200,0.0588
+"New Zealand",1996,"New Zealand",3730000,0.1322
+Oman,1996,Oman,2160000,0.0069
+Pakistan,1996,Pakistan,139000000,0.0005
+Panama,1996,Panama,2780000,0.0025
+Peru,1996,Peru,24800000,0.0081
+Philippines,1996,Philippines,72200000,0.0133
+"Papua New Guinea",1996,"Papua New Guinea",4810000,0.0005
+Poland,1996,Poland,38400000,0.0057
+Portugal,1996,Portugal,10100000,0.0657
+Paraguay,1996,Paraguay,4690000,0.0070
+Qatar,1996,Qatar,529000,0.0544
+Romania,1996,Romania,22500000,0.0008
+Russia,1996,Russia,148000000,0.0015
+"Saudi Arabia",1996,"Saudi Arabia",13800000,0.0138
+Sudan,1996,Sudan,25200000,0.0001
+Senegal,1996,Senegal,9070000,0.0002
+Singapore,1996,Singapore,3660000,0.1178
+"Solomon Islands",1996,"Solomon Islands",396000,0.0009
+"El Salvador",1996,"El Salvador",5810000,0.0040
+"San Marino",1996,"San Marino",25500,0.0894
+Suriname,1996,Suriname,439000,0.0055
+"Slovak Republic",1996,"Slovak Republic",5360000,0.0054
+Slovenia,1996,Slovenia,1990000,0.0207
+Sweden,1996,Sweden,8840000,0.2817
+Seychelles,1996,Seychelles,78900,0.0132
+Thailand,1996,Thailand,59900000,0.0307
+Tajikistan,1996,Tajikistan,6070000,0.0000
+Tonga,1996,Tonga,100000,0.0030
+"Trinidad and Tobago",1996,"Trinidad and Tobago",1300000,0.0073
+Tunisia,1996,Tunisia,9290000,0.0007
+Turkey,1996,Turkey,62000000,0.0130
+Tanzania,1996,Tanzania,30900000,0.0003
+Uganda,1996,Uganda,21200000,0.0002
+Ukraine,1996,Ukraine,51200000,0.0006
+Uruguay,1996,Uruguay,3210000,0.0245
+USA,1996,USA,271000000,0.1624
+Uzbekistan,1996,Uzbekistan,23400000,0.0004
+"St. Vincent and the Grenadines",1996,"St. Vincent and the Grenadines",113000,0.0025
+Venezuela,1996,Venezuela,22700000,0.0256
+Vietnam,1996,Vietnam,73200000,0.0009
+Vanuatu,1996,Vanuatu,171000,0.0009
+Yemen,1996,Yemen,17300000,0.0005
+"South Africa",1996,"South Africa",45100000,0.0211
+Zambia,1996,Zambia,9000000,0.0003
+Angola,1997,Angola,14700000,0.0005
+Albania,1997,Albania,3230000,0.0010
+Andorra,1997,Andorra,64700,0.1332
+UAE,1997,UAE,2820000,0.1096
+Argentina,1997,Argentina,35900000,0.0560
+Armenia,1997,Armenia,3250000,0.0015
+"Antigua and Barbuda",1997,"Antigua and Barbuda",71100,0.0197
+Australia,1997,Australia,18500000,0.2476
+Austria,1997,Austria,7970000,0.1455
+Azerbaijan,1997,Azerbaijan,7940000,0.0050
+Burundi,1997,Burundi,6070000,0.0001
+Belgium,1997,Belgium,10200000,0.0955
+Benin,1997,Benin,6580000,0.0007
+"Burkina Faso",1997,"Burkina Faso",10900000,0.0001
+Bangladesh,1997,Bangladesh,127000000,0.0002
+Bulgaria,1997,Bulgaria,8220000,0.0085
+Bahrain,1997,Bahrain,624000,0.0938
+Bahamas,1997,Bahamas,311000,0.0199
+"Bosnia and Herzegovina",1997,"Bosnia and Herzegovina",4020000,0.0022
+Belarus,1997,Belarus,10100000,0.0008
+Belize,1997,Belize,217000,0.0117
+Bolivia,1997,Bolivia,8170000,0.0144
+Brazil,1997,Brazil,167000000,0.0272
+Barbados,1997,Barbados,262000,0.0306
+Brunei,1997,Brunei,305000,0.1475
+"Central African Republic",1997,"Central African Republic",3530000,0.0004
+Canada,1997,Canada,30100000,0.1395
+Switzerland,1997,Switzerland,7090000,0.1467
+Chile,1997,Chile,14900000,0.0275
+China,1997,China,1240000000,0.0106
+"Cote d'Ivoire",1997,"Cote d'Ivoire",16000000,0.0023
+Cameroon,1997,Cameroon,13800000,0.0003
+"Congo, Dem. Rep.",1997,"Congo, Dem. Rep.",46000000,0.0002
+Colombia,1997,Colombia,37100000,0.0340
+"Cape Verde",1997,"Cape Verde",433000,0.0000
+"Costa Rica",1997,"Costa Rica",3700000,0.0174
+Cuba,1997,Cuba,11000000,0.0003
+Cyprus,1997,Cyprus,898000,0.1024
+"Czech Republic",1997,"Czech Republic",10300000,0.0511
+Germany,1997,Germany,82400000,0.1005
+Djibouti,1997,Djibouti,672000,0.0003
+Dominica,1997,Dominica,69300,0.0080
+Denmark,1997,Denmark,5290000,0.2722
+"Dominican Republic",1997,"Dominican Republic",8170000,0.0174
+Algeria,1997,Algeria,29600000,0.0006
+Ecuador,1997,Ecuador,12000000,0.0106
+Egypt,1997,Egypt,68400000,0.0010
+Spain,1997,Spain,40400000,0.1074
+Estonia,1997,Estonia,1420000,0.1014
+Finland,1997,Finland,5140000,0.4202
+Fiji,1997,Fiji,812000,0.0064
+France,1997,France,58600000,0.0993
+Gabon,1997,Gabon,1180000,0.0081
+UK,1997,UK,58400000,0.1514
+Georgia,1997,Georgia,4700000,0.0064
+Ghana,1997,Ghana,18200000,0.0012
+Guinea,1997,Guinea,7930000,0.0004
+Gambia,1997,Gambia,1340000,0.0035
+"Equatorial Guinea",1997,"Equatorial Guinea",617000,0.0005
+Greece,1997,Greece,10600000,0.0885
+Grenada,1997,Grenada,105000,0.0093
+Guatemala,1997,Guatemala,10900000,0.0059
+Guyana,1997,Guyana,762000,0.0018
+"Hong Kong, China",1997,"Hong Kong, China",6420000,0.3474
+Honduras,1997,Honduras,6070000,0.0024
+Croatia,1997,Croatia,4500000,0.0267
+Hungary,1997,Hungary,10300000,0.0685
+Indonesia,1997,Indonesia,207000000,0.0044
+India,1997,India,999000000,0.0009
+Ireland,1997,Ireland,3670000,0.1485
